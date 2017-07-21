@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <Folder Include="Data\Oracle\" />
+     <ProjectReference Include="..\VPortal.TokenManager\VPortal.TokenManager.csproj" />
   </ItemGroup>
 
 </Project>

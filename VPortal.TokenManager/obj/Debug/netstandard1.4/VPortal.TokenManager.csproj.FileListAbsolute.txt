@@ -1,0 +1,6 @@
+D:\Verscend_project\eapp\VPortal.TokenManager\bin\Debug\netstandard1.4\VPortal.TokenManager.deps.json
+D:\Verscend_project\eapp\VPortal.TokenManager\obj\Debug\netstandard1.4\VPortal.TokenManager.AssemblyInfo.cs
+D:\Verscend_project\eapp\VPortal.TokenManager\bin\Debug\netstandard1.4\VPortal.TokenManager.dll
+D:\Verscend_project\eapp\VPortal.TokenManager\bin\Debug\netstandard1.4\VPortal.TokenManager.pdb
+D:\Verscend_project\eapp\VPortal.TokenManager\obj\Debug\netstandard1.4\VPortal.TokenManager.dll
+D:\Verscend_project\eapp\VPortal.TokenManager\obj\Debug\netstandard1.4\VPortal.TokenManager.pdb

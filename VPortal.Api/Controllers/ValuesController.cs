@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace VPortal.Api.Controllers
@@ -11,9 +9,11 @@ namespace VPortal.Api.Controllers
     {
         // GET api/values
         [HttpGet]
+        [Authorize(ActiveAuthenticationSchemes = "Bearer")]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+      //  var token = TokenHandler.GenerateToken(1);
+        return new string[] { "value1"," token.ClientToken" };
         }
 
         // GET api/values/5

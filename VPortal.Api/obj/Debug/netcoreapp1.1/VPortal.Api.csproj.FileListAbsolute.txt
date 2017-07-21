@@ -7,3 +7,13 @@ D:\VerscendProjs\VPortal\VPortal.Api\obj\Debug\netcoreapp1.1\VPortal.Api.csprojR
 D:\VerscendProjs\VPortal\VPortal.Api\obj\Debug\netcoreapp1.1\VPortal.Api.AssemblyInfo.cs
 D:\VerscendProjs\VPortal\VPortal.Api\obj\Debug\netcoreapp1.1\VPortal.Api.dll
 D:\VerscendProjs\VPortal\VPortal.Api\obj\Debug\netcoreapp1.1\VPortal.Api.pdb
+D:\Verscend_project\eapp\VPortal.Api\bin\Debug\netcoreapp1.1\VPortal.Api.deps.json
+D:\Verscend_project\eapp\VPortal.Api\bin\Debug\netcoreapp1.1\VPortal.Api.runtimeconfig.json
+D:\Verscend_project\eapp\VPortal.Api\bin\Debug\netcoreapp1.1\VPortal.Api.runtimeconfig.dev.json
+D:\Verscend_project\eapp\VPortal.Api\obj\Debug\netcoreapp1.1\VPortal.Api.AssemblyInfo.cs
+D:\Verscend_project\eapp\VPortal.Api\bin\Debug\netcoreapp1.1\VPortal.Api.dll
+D:\Verscend_project\eapp\VPortal.Api\bin\Debug\netcoreapp1.1\VPortal.Api.pdb
+D:\Verscend_project\eapp\VPortal.Api\bin\Debug\netcoreapp1.1\VPortal.TokenManager.dll
+D:\Verscend_project\eapp\VPortal.Api\bin\Debug\netcoreapp1.1\VPortal.TokenManager.pdb
+D:\Verscend_project\eapp\VPortal.Api\obj\Debug\netcoreapp1.1\VPortal.Api.dll
+D:\Verscend_project\eapp\VPortal.Api\obj\Debug\netcoreapp1.1\VPortal.Api.pdb
